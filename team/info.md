@@ -28,3 +28,4 @@
 - Kir_oe(开发，管理，技术，策划)
   - 联系方式：
   - QQ：[644178681](tencent://message/?uin=644178681&Site=&Menu=yes)
+  - 论坛: [Kir_oe](https://lt.yzhserver.cn/u/Kir_oe)

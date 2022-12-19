@@ -26,6 +26,8 @@
 
 - 🖥️插件/功能使用说明
 
+  - [基础指令](/plugins/jichu.md)
+
   - [领地](/plugins/res.md)
 
-  - [坐下](/plugins/sit.md)
+  - [箱子商店](/plugins/sit.md)

@@ -6,4 +6,4 @@
 
 - 你可以在这里找到大约99%关于服务器的事情
 
-[开始使用 Let Go](?id=yzhserver-documentation)
+[开始使用 Let Go](/README.md)

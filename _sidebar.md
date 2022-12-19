@@ -31,3 +31,5 @@
   - [领地](/plugins/res.md)
 
   - [箱子商店](/plugins/sit.md)
+
+  - [更多附魔](/plugins/fumo.md)

@@ -33,3 +33,5 @@
   - [箱子商店](/plugins/sit.md)
 
   - [更多附魔](/plugins/fumo.md)
+
+  - [粘液科技](/plugins/nianyekeji.md)
